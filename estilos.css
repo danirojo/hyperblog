@@ -1,4 +1,14 @@
+body{
+    background-color: cornflowerblue;
+}
 h1{
-    color: red;
+    color: chocolate;
     text-align: center;
+}
+div{
+   padding: auto;
+}
+p{
+    text-align: center;
+    color: white;
 }
